@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.anushka.lingua_franca">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="Lingua Franca"
+        android:logo="@mipmap/logo"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        >
+        <activity android:name=".score"></activity>
+        <activity android:name=".questionadder"></activity>
+        <activity android:name=".profile">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".quiz1"></activity>
+        <activity android:name=".quiz"></activity>
+        <activity
+            android:name=".YP2K20"
+            android:label="@string/title_activity_yp2_k20"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".yp.yp_login"></activity>
+        <activity android:name=".yp.yp_main"></activity>
+        <activity android:name=".login" />
+        <activity android:name=".register" />
+        <activity android:name=".registerActivity" />
+        <activity android:name=".nav"></activity>
+        <activity android:name=".team">
+        </activity>
+        <activity android:name=".forgotPassword"></activity>
+        <activity android:name=".event" />
+        <activity android:name=".write" />
+        <activity android:name=".feedback" />
+        <activity android:name=".contact" />
+        <activity android:name=".splash">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".description"></activity>
+    </application>
+
+</manifest>

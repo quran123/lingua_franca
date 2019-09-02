@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">lingua_franca</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="loading">loading</string>
+    <string name="title">Team</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">sign_in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nav">Lingua Franca</string>
+    <string name="title_activity_yp2_k20">YP2K20</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="quiz">An online fun related to comics also include some mind twisters</string>
+    <string name="nav8text1">Do you have a suggestion or found some bug?let us know in the field below</string>
+
+    <string name="nav8text2">Describe your experience here</string>
+    <string name="turncoat">Turncoat is one of the most important and wonderful event of Zealicon that not only enhances one\'s speaking skills but also helps the person to showcase his/her knowledge and convincing ability. The participant will be given a topic and he or she has to speak on that particular topic for few minutes, both for and against the motion. In the end, the participant is supposed to conclude everything. It is an interesting event cherished by all.</string>
+<string name="grafitti">Grafitti ,a t-shirt painting competition that will enable participants to pen down their thinking ,vibrant ideas  and creativity with help of world of colors.It is wonderful opportunity waiting for you to aware the world about your presence Every year ,this event is conducted in our college fest ,"zealicon" and huge crowd is gathered to participate in this event.</string>
+<string name="wordsnipping">Word sniping is a fun game in which participants will be provided with five chits with different words written on each one of them. Then, participants need to hit on the word on the dartboard , which is opposite to the word mentioned on the chit. Out of five, the participant who hits the required spot most number of times wins the game.</string>
+<string name="comicoodle">Comic-oodle is an event which will bring out an author within yourself. All the participants will be provided with a comic for sometime and then taken away. Then, participants will write an original fiction story on the comical characters they saw in the comic. This event will be testing out creativity and narrativity skills of the participants.</string>
+<string name="co">anushka</string>
+    <string name="corporatecompetance">an event conducted by our society will be held this year on 6th of September with the vision of testing the verbal and quantative abilites of students. It will include two sections, the article writing and the aptitude test. These two skills are very important in the corporate world and Corporate Competence gives you the opportunity to command them along with the technical education.</string>
+<string name="tasveereshayari">Art for art\'s sake! So come and join us in this event to showcase your talent and have loads of fun-TASVEER E SHER O SHAYARI where the participants will be given a picture and they have to imbibe their thoughts and write a shayari on the spot.SHAYARI! Need we say more?</string>
+<string name="yp">Youth Parliament is an event organized by the literary society of our college: Lingua Franca. It is an opportunity for the students who are willing to speak on topics of national importance in a complete 2-day event separating the Rajya Sabha, the Lok Sabha, Niti Aayog and NHRC. It is an inter-college event that brings together the young generation and their creative minds to understand and contribute towards our country\'s legislature. It brings out the leaders amongst the youth and is a personality development event as well.The participants discuss over contemporary issues or agendas as decided by the core organizers. Every year this organized with great enthusiasm and support.With a perspective that words and ideas can change the world ,we encourage the youngsters to be a part of this great inter-college event and enhance their knowledge and skills.</string>
+    <string name="url">https://linguafranca-71b67.firebaseio.com/</string>
+</resources>
+

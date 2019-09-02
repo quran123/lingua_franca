@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855789350549",
+    "firebase_url": "https://linguafranca-71b67.firebaseio.com",
+    "project_id": "linguafranca-71b67",
+    "storage_bucket": "linguafranca-71b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855789350549:android:28539c13def50da1",
+        "android_client_info": {
+          "package_name": "com.anushka.lingua_franca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855789350549-q3bjtg1qu8e09985ulrlnq2iemh7ukeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEJyKIi59cZVlG9LdGslZuB17jS7r4bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855789350549-q3bjtg1qu8e09985ulrlnq2iemh7ukeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

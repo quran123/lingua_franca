@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/l1"
+    >
+
+
+    <ImageView
+        android:layout_margin="15dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        />
+    <Button
+        android:id="@+id/b1"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Quiz_biz"
+        />
+    <Button
+        android:id="@+id/b2"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Corporate Competence"
+        />
+    <Button
+        android:id="@+id/b4"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Turncoat"
+        />
+    <Button
+        android:id="@+id/b5"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Tasveer-E-Sher-O-Shayari"
+        />
+    <Button
+        android:id="@+id/b6"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Comic Oodle"
+        />
+    <Button
+        android:id="@+id/b7"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Word Snipping"
+        />
+
+    <Button
+        android:id="@+id/b8"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Grafitti"
+        />
+    <Button
+        android:id="@+id/b3"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:text="Youth Parliement 2020"
+        />
+
+</LinearLayout>
+</ScrollView>

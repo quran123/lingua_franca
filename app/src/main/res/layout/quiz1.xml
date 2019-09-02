@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:padding="50dp"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/question"
+        android:text="Question"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textSize="40sp"
+        android:fontFamily="cursive"
+        />
+    <RadioGroup
+        android:id="@+id/r"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/r1"
+        android:text="Option1"
+        android:textSize="12sp"
+        android:padding="5dp"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/r2"
+        android:text="Option2"
+        android:textSize="12sp"
+        android:padding="5dp"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/r3"
+        android:text="Option3"
+        android:textSize="12sp"
+        android:padding="5dp"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/r4"
+        android:text="Option4"
+        android:textSize="12sp"
+        android:padding="5dp"
+        />
+</RadioGroup>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/b"
+        android:layout_gravity="bottom"
+        android:text="Submit"
+        />
+   </LinearLayout>

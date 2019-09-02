@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar"
+        android:background="@color/black"
+        android:text="Reach Us"
+        android:title="Reach Us"
+        android:textColor="@color/white"
+        >
+    </androidx.appcompat.widget.Toolbar>
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/email"
+    android:text="linguafrancajssaten@gmail.com"
+    android:drawableStart="@drawable/email"
+    android:background="@color/white"
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/facebook"
+        android:text="Lingua Franca"
+        android:drawableStart="@drawable/facebook"
+        android:background="@color/white"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/instagram"
+        android:text="Lingua Franca"
+        android:drawableStart="@drawable/intagram"
+        android:background="@color/white"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/twitter"
+        android:text="linguafrancajss"
+        android:drawableStart="@drawable/twitter"
+        android:background="@color/white"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/phone"
+        android:text="(+91) 9917451101"
+        android:background="@color/white"
+        android:drawableStart="@drawable/phone"
+        />
+</LinearLayout>
